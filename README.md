@@ -9,7 +9,7 @@ Hobbies:<br>
 + Poker<br>
 + Coding :) <br><br>
 
-- --------------------------<br>
+-----------------------------------<br>
 👨‍💻 Learning C, C++, JS, SQL
 
 🖥️ 1st Year (2nd semester) Software Developing Student
