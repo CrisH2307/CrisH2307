@@ -8,7 +8,6 @@ Hobbies:<br>
 + Pool<br>
 + Poker<br>
 + Coding :) <br><br>
-
 -----------------------------------<br>
 👨‍💻 Learning C, C++, JS, SQL
 
