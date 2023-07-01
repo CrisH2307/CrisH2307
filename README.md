@@ -1,7 +1,7 @@
-##  💫 About Me:
-# Hey guys, my name is Cris Huynh<br>
+#  💫 About Me:
+Hey guys, my name is Cris Huynh<br>
 
-# I'm currently studying BSD (Honours Bachelor of Technology - Software Development)<br><br>
+I'm currently studying BSD (Honours Bachelor of Technology - Software Development)<br><br>
 
 Hobbies:<br>
 + Gym<br>
