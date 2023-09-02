@@ -10,11 +10,11 @@ Hobbies:
 + Coding :) <br>
 
 -----------------------------------<br>
-👨‍💻 Learning C, C++, JS, SQL
+👨‍💻 Learning Full Stack Developer (Currently Frontend Developer using React and HTML)
 
-🖥️ 1st Year (2nd semester) Software Developing Student
+🖥️ 2nd Year (3nd semester) Software Developing Student
 
-🥅 2023 Goals: Pass C++ :)
+🥅 2023 Goals: Fluent at Fronted and start studying Backend
 
 
 ## 🌐 Socials:
