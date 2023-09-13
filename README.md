@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey guys, my name is Cris Huynh<br><br>I'm currently studying BSD (Honours Bachelor of Technology - Software Development)<br><br>Hobbies:<br><br>Gym<br>Pool<br>Poker<br>Coding :)<br>-----------------------------------<br>👨‍💻 Learning Full Stack Developer (Currently Frontend Developer using React, JS and HTML)<br><br>🖥️ 2nd Year (3nd semester) Software Developing and Com Student<br><br>🥅 2023 Goals: Fluent at Fronted and start studying Backend
+Hey guys, my name is Cris Huynh<br><br>I'm currently studying BSD (Honours Bachelor of Technology - Software Development)<br><br>Hobbies:<br><br>Gym<br>Pool<br>Poker<br>Coding :)<br>-----------------------------------<br>👨‍💻 Learning Full Stack Developer (Currently Frontend Developer using React, JS and HTML)<br><br>🖥️ 2nd Year (3nd semester) Software Developing Student<br><br>🥅 2023 Goals: Fluent at Fronted and start studying Backend
 
 
 # 🌐 Socials:
