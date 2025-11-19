@@ -4,4 +4,4 @@ Hey guys, my name is Cris Huynh<br><br>I'm currently studying BSD (Honours Bache
 
 **My LinkedIn**: [Cris Huynh](https://www.linkedin.com/in/cris-huynh-2a52b5274/)
 
-**My LeetCode**: [Cris Huynh](https://leetcode.com/u/Cris04/)
+**My LeetCode**: [Crisnineball's Leetcode](https://leetcode.com/u/Cris04/)
