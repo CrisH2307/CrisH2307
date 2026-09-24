@@ -1,11 +1,13 @@
 # About Me:
-MASc at Ontario Tech University 
 
-GR Research @ Ontario Tech University and UofT
+### Education
++ MASc at Ontario Tech University 
++ Diploma at Seneca College
 
-UG Research @ York University
-
-Finance Software Engineering @ KPMG
+### Experience
++ GR Research @ Ontario Tech University and UofT
++ UG Research @ York University
++ Finance Software Engineering @ KPMG
 
 
 Engineering: SDLC, Python, C++
