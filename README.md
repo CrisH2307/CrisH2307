@@ -1,5 +1,25 @@
 # About Me:
-Hey guys, my name is Cris Huynh<br><br>I'm currently studying BSD (Honours Bachelor of Technology - Software Development)<br>-----------------------------------<br>Learning Machine Learning, Full Stack Developer and Software Developer (Currently Software Developer using Python, Java, JS, TypeScript, C++ and C#)<br><br>4th Year (7th semester) Bachelor of Software Development Student<br><br>2026 Goals: Amazonnnnnnnnnn, New Gradsssssss
+MASc at Ontario Tech University 
+
+GR Research @ Ontario Tech University and UofT
+
+UG Research @ York University
+
+Finance Software Engineering @ KPMG
+
+
+Engineering: SDLC, Python, C++
+
+
+Research/ML: Deep Learning, LLM, NLP, Log
+
+Hackathons:
++ Hack The North 2025, 2026
++ Hack The 6ix 2023, 2025, 2026
++ Hack The Valley 2025
++ Soon Hackathon 2026
++ UofT Hack 2025
++ SpurHack 2025
 
 
 **My LinkedIn**: [Cris Huynh](https://www.linkedin.com/in/cris-huynh-2a52b5274/)
